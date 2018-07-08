@@ -1,0 +1,34 @@
+{
+  "pendiete": [
+    {
+      "titulo": "Tarea 1",
+      "responsable": "Danilo",
+      "descripcion": "Hacer ya",
+      "prioridad": "Putamente alta"
+    },
+    {
+      "titulo": "Tarea 2",
+      "responsable": "Maicol",
+      "descripcion": "Hacer mas tarde",
+      "prioridad": "No tan Putamente alta"
+    },
+    {
+      "titulo": "Tarea 3",
+      "responsable": "Norberto",
+      "descripcion": "Cuando quiera papi",
+      "prioridad": "Neh"
+    },
+    {
+      "titulo": "Tarea 4",
+      "responsable": "Alejandro 'El Chase' Tovar",
+      "descripcion": "No lo va hacer cabron",
+      "prioridad": "Igual no lo hara"
+    },
+    {
+      "titulo": "Tarea 5",
+      "responsable": "Otro man",
+      "descripcion": "pues",
+      "prioridad": "pues"
+    }
+  ]
+}
